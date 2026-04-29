@@ -15,7 +15,7 @@ function parent(){
     var property =100;
     function child(){
         console.log("child---",property);
-        var adddproperty=50;
+        var adddproperty=20;
         function subchild(){
             console.log("subchild---",property);
             var doubleproperty=30;
